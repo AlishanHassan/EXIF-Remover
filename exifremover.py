@@ -1,3 +1,5 @@
+__author__ = "Alishan Hassan"
+
 import sys
 from PIL import Image
 
